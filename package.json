@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/thesh4de/version0_SRMHackathon/issues"
   },
-  "homepage": "https://github.com/thesh4de/version0_SRMHackathon#readme"
+  "homepage": "https://github.com/thesh4de/version0_SRMHackathon#readme",
+  "dependencies": {
+    "gun": "^0.2020.1236"
+  }
 }
