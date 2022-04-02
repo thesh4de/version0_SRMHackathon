@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "P2P Messenger app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesh4de/version0_SRMHackathon.git"
+  },
+  "author": "version0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesh4de/version0_SRMHackathon/issues"
+  },
+  "homepage": "https://github.com/thesh4de/version0_SRMHackathon#readme"
+}
