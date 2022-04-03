@@ -18,3 +18,9 @@ web.
 ## What we learned 
 We understood how the block-chain system works and how it can be implemented on a smaller scale
 and the amount of versatility and depth in its usage.
+
+## Prototype
+![Screenshot_20220403-140300](https://user-images.githubusercontent.com/73535431/161419345-b714ad44-de70-4c15-a531-5097f31cfc00.jpg)
+
+- Chat 
+![Screenshot_20220403-140328](https://user-images.githubusercontent.com/73535431/161419385-11f05664-6a06-400b-919b-f2787b96f78c.jpg)
